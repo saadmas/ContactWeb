@@ -120,3 +120,4 @@ C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\obj\Debug\ContactWeb.dll
 C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\obj\Debug\ContactWeb.pdb
 C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\obj\Debug\ContactWeb.Migrations.initial.resources
 C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\obj\Debug\ContactWeb.csproj.GenerateResource.cache
+C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\bin\Newtonsoft.Json.pdb
