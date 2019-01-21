@@ -84,6 +84,8 @@ C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\bin\System.Web.WebPages.Dep
 C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\bin\System.Web.WebPages.dll
 C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\bin\System.Web.WebPages.Razor.dll
 C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\bin\WebGrease.dll
+C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\bin\Newtonsoft.Json.pdb
+C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\bin\Newtonsoft.Json.xml
 C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\bin\System.Web.Helpers.xml
 C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\bin\System.Web.Mvc.xml
 C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\bin\System.Web.Optimization.xml
@@ -91,7 +93,6 @@ C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\bin\System.Web.Razor.xml
 C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\bin\System.Web.WebPages.xml
 C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\bin\System.Web.WebPages.Deployment.xml
 C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\bin\System.Web.WebPages.Razor.xml
-C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\bin\Newtonsoft.Json.xml
 C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\bin\Antlr3.Runtime.pdb
 C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\bin\EntityFramework.xml
 C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\bin\EntityFramework.SqlServer.xml
@@ -113,11 +114,9 @@ C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\bin\Microsoft.AI.Dependency
 C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\bin\Microsoft.AI.Web.xml
 C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\obj\Debug\ContactWeb.csprojAssemblyReference.cache
+C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\obj\Debug\ContactWeb.Migrations.initial.resources
+C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\obj\Debug\ContactWeb.csproj.GenerateResource.cache
 C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\obj\Debug\ContactWeb.csproj.CoreCompileInputs.cache
 C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\obj\Debug\ContactWeb.csproj.CopyComplete
 C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\obj\Debug\ContactWeb.dll
 C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\obj\Debug\ContactWeb.pdb
-C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\obj\Debug\ContactWeb.Migrations.initial.resources
-C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\obj\Debug\ContactWeb.csproj.GenerateResource.cache
-C:\Users\Hp\Documents\Projects\ContactWeb\ContactWeb\bin\Newtonsoft.Json.pdb
